@@ -1,4 +1,5 @@
-[README-pt.md](https://github.com/user-attachments/files/31438437/README-pt.md)
+[README-pt.md](https://github.com/user-attachments/files/31438585/README-pt.md)
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6366f1&height=180&section=header&text=Samuel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descAlignY=53&descSize=16" width="100%" />
@@ -48,11 +49,15 @@ Nos próximos 12 meses: ser sólido em **C#** a ponto de não depender de tutori
 
 ### Ferramentas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table align="center">
+<tr>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="45" /><br><sub>C#</sub></td>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="45" /><br><sub>Unity</sub></td>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br><sub>Git</sub></td>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br><sub>GitHub</sub></td>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br><sub>VS Code</sub></td>
+</tr>
+</table>
 
 ### Contato
 
