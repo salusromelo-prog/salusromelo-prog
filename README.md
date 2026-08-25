@@ -12,7 +12,7 @@
 
 ---
 
-## Eae!Tudo Bem? Eu sou o Samuel👋
+## Eae! Tudo Bem? Eu sou o Samuel👋
 
 Tudo começou no videogame. Passei anos jogando antes de me perguntar como aquilo era feito — e no ensino médio fiz um curso online de introdução à programação para descobrir. Foi ali que entrei no mundo do código e não saí mais.
 
