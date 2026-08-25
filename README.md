@@ -1,16 +1,64 @@
-## Hi there 👋
+[README-pt.md](https://github.com/user-attachments/files/31438437/README-pt.md)
+<div align="center">
 
-<!--
-**salusromelo-prog/salusromelo-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6366f1&height=180&section=header&text=Samuel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descAlignY=53&descSize=16" width="100%" />
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/C%23-em%20estudo-6366f1?style=for-the-badge)
+![](https://img.shields.io/badge/Unity-no%20curso%20t%C3%A9cnico-6366f1?style=for-the-badge)
+![](https://img.shields.io/badge/Objetivo-desenvolvimento%20de%20software-6366f1?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Prazer, eu sou o Samuel
+
+Tudo começou no videogame. Passei anos jogando antes de me perguntar como aquilo era feito — e no ensino médio fiz um curso online de introdução à programação para descobrir. Foi ali que entrei no mundo do código e não saí mais.
+
+Hoje faço um **curso técnico de Jogos Digitais**, onde uso **Unity** e **C#** para construir jogos e resolver lógicas. É uma base excelente, mas sou honesto sobre o rumo: **meu objetivo é desenvolvimento de software**. Jogos são de onde eu vim e um ótimo lugar para aprender.
+
+## O que estou fazendo
+
+- Aprendendo **C#** — a linguagem que quero dominar de verdade primeiro
+- **Unity** no curso técnico: jogos simples, lógica de gameplay, exercícios semanais
+- Base de lógica construída em **Portugol / VisualG** antes de partir para sintaxe
+
+## Projetos
+
+<!-- FIXE (pin) SEUS REPOSITÓRIOS AQUI NO PERFIL.
+     Mesmo os exercícios da aula. Cada repo com um README de 2 linhas:
+     o que é e o que você aprendeu fazendo. Isso vale mais que todo o resto
+     desta página. -->
+
+Meus exercícios e jogos do curso estão fixados aqui embaixo.
+
+## Fora do código
+
+Sou atleta de **tênis de mesa** — é a minha paixão fora da programação. Também treino na academia com constância.
+
+Não é detalhe solto: esporte competitivo ensina a repetir o fundamento até sair certo, perder sem parar de tentar e medir progresso de forma honesta. É exatamente o que estudar programação exige.
+
+## Onde quero chegar
+
+Nos próximos 12 meses: ser sólido em **C#** a ponto de não depender de tutorial, ter **jogos e projetos próprios terminados e publicados aqui**, e começar a trabalhar com desenvolvimento de software.
+
+---
+
+<div align="center">
+
+### Ferramentas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Contato
+
+![Goiânia](https://img.shields.io/badge/Goi%C3%A2nia,%20GO-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=6366f1)
+[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salusromelo@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0a0a0a&height=100&section=footer" width="100%" />
+
+</div>
