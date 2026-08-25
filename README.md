@@ -8,6 +8,8 @@
 ![](https://img.shields.io/badge/Unity-no%20curso%20t%C3%A9cnico-6366f1?style=for-the-badge)
 ![](https://img.shields.io/badge/Objetivo-desenvolvimento%20de%20software-6366f1?style=for-the-badge)
 
+<img src="https://ghchart.rshah.org/6366f1/salusromelo-prog" alt="Gráfico de contribuições" width="90%" />
+
 </div>
 
 ---
