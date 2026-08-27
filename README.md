@@ -56,7 +56,7 @@ Nos próximos 12 meses: ser sólido em **C#** a ponto de não depender de tutori
 <td align="center" width="95"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br><sub>Git</sub></td>
 <td align="center" width="95"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br><sub>GitHub</sub></td>
 <td align="center" width="95"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br><sub>VS Code</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="45" /><br><sub>Visual Studio</sub></td>
+<td align="center" width="95"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="45" /><br><sub>VS Community</sub></td>
 </tr>
 </table>
 
