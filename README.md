@@ -1,70 +1,136 @@
-[README-pt.md](https://github.com/user-attachments/files/31438585/README-pt.md)
+<p align="center">
+  <img
+    src="./assets/banner.png"
+    width="100%"
+    alt="Samuel Lustosa — Programação e Jogos Digitais. C#, Unity e desenvolvimento de software."
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/salusromelo-prog?tab=repositories">
+    <b>EXPLORAR REPOSITÓRIOS ↗</b>
+  </a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:salusromelo@gmail.com">
+    <b>ENTRAR EM CONTATO ↗</b>
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:6366f1&height=180&section=header&text=Samuel&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%C2%B7%20Goi%C3%A2nia%2C%20GO&descAlignY=53&descSize=16" width="100%" />
+<br>
 
-![](https://img.shields.io/badge/C%23-em%20estudo-6366f1?style=for-the-badge)
-![](https://img.shields.io/badge/Unity-no%20curso%20t%C3%A9cnico-6366f1?style=for-the-badge)
-![](https://img.shields.io/badge/Objetivo-desenvolvimento%20de%20software-6366f1?style=for-the-badge)
+### Sobre
 
-</div>
+Sou o Samuel, estudante de **Jogos Digitais em Goiânia**.
 
----
+Meu interesse por programação começou nos videogames. Hoje,
+estou aprofundando minha base em **C#** e usando **Unity** nas
+atividades do curso. Quero seguir no desenvolvimento de software,
+com autonomia para construir e entender meus próprios projetos.
 
-## Eae! Tudo Bem? Eu sou o Samuel👋
+<br>
 
-Tudo começou no videogame. Passei anos jogando antes de me perguntar como aquilo era feito — e no ensino médio fiz um curso online de introdução à programação para descobrir. Foi ali que entrei no mundo do código e não saí mais.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>C# · Fundamentos</h3>
+      <p>
+        Meu foco principal de estudo: lógica,
+        resolução de problemas e prática com código.
+      </p>
+      <p>
+        <sub>LINGUAGEM · RACIOCÍNIO · EXERCÍCIOS</sub>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Unity · Jogos Digitais</h3>
+      <p>
+        Onde aplico o que aprendo em scripts,
+        mecânicas de jogo e projetos do curso técnico.
+      </p>
+      <p>
+        <sub>SCRIPTS · GAMEPLAY · PROJETOS</sub>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Hoje faço um **curso técnico de Jogos Digitais**, onde uso **Unity** e **C#** para construir jogos e resolver lógicas. É uma base excelente, mas sou honesto sobre o rumo: **meu objetivo é desenvolvimento de software**. Jogos são de onde eu vim e um ótimo lugar para aprender.
-
-## O que estou fazendo
-
-- Aprendendo **C#** — a linguagem que quero dominar de verdade primeiro
-- **Unity** no curso técnico: jogos simples, lógica de gameplay, exercícios semanais
-- Base de lógica construída em **Portugol / VisualG** antes de partir para sintaxe
-
-## Projetos
-
-<!-- FIXE (pin) SEUS REPOSITÓRIOS AQUI NO PERFIL.
-     Mesmo os exercícios da aula. Cada repo com um README de 2 linhas:
-     o que é e o que você aprendeu fazendo. Isso vale mais que todo o resto
-     desta página. -->
-
-Meus exercícios e jogos do curso estão fixados aqui embaixo.
-
-## Fora do código
-
-Sou atleta de **tênis de mesa** — é a minha paixão fora da programação. Também treino na academia com constância.
-
-Não é detalhe solto: esporte competitivo ensina a repetir o fundamento até sair certo, perder sem parar de tentar e medir progresso de forma honesta. É exatamente o que estudar programação exige.
-
-## Onde quero chegar
-
-Nos próximos 12 meses: ser sólido em **C#** a ponto de não depender de tutorial, ter **jogos e projetos próprios terminados e publicados aqui**, e começar a trabalhar com desenvolvimento de software.
-
----
-
-<div align="center">
+<br>
 
 ### Ferramentas
 
-<table align="center">
-<tr>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="45" /><br><sub>C#</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=unity&theme=dark" width="45" /><br><sub>Unity</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" /><br><sub>Git</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="45" /><br><sub>GitHub</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45" /><br><sub>VS Code</sub></td>
-<td align="center" width="95"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="45" /><br><sub>Visual&nbsp;Studio</sub></td>
-</tr>
-</table>
+<p>
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cs,unity,git,github,vscode,visualstudio&theme=dark&perline=6"
+      alt="C#, Unity, Git, GitHub, VS Code e Visual Studio"
+    />
+  </a>
+</p>
 
-### Contato
+<br>
 
-![Goiânia](https://img.shields.io/badge/Goi%C3%A2nia,%20GO-0a0a0a?style=for-the-badge&logo=googlemaps&logoColor=6366f1)
-[![Email](https://img.shields.io/badge/Email-6366f1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salusromelo@gmail.com)
+### Atividade no GitHub
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0a0a0a&height=100&section=footer" width="100%" />
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salusromelo-prog&name=Samuel%20Lustosa&theme=github_dark&title_color=E8ECF3&text_color=9FB0C8&bg_color=101826&border_color=26334D&icon_color=7AA2FF&chart_color=507BFF&animation=sequence&duration=3"
+    alt="Resumo da atividade pública de Samuel no GitHub"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    width="380"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salusromelo-prog&theme=github_dark&title_color=E8ECF3&text_color=9FB0C8&bg_color=101826&border_color=26334D&icon_color=7AA2FF&chart_color=507BFF&hide_logo=true&animation=load&duration=2"
+    alt="Estatísticas públicas do perfil"
+  />
+  <img
+    width="380"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salusromelo-prog&exclude_repos=salusromelo-prog&theme=github_dark&title_color=E8ECF3&text_color=9FB0C8&bg_color=101826&border_color=26334D&icon_color=7AA2FF&chart_color=507BFF&animation=draw&duration=2"
+    alt="Linguagens presentes nos meus repositórios"
+  />
+</p>
+
+<br>
+
+### Contribuições
+
+<p align="center">
+  <img
+    src="./assets/contributions.svg"
+    width="100%"
+    alt="Animação do meu mapa de contribuições no GitHub"
+  />
+</p>
+
+<br>
+
+<details>
+  <summary><b>Um pouco além dos repositórios</b></summary>
+
+  <br>
+
+  <p>
+    Fora da programação, sou atleta de tênis de mesa.
+    Aqui no GitHub, reúno exercícios e projetos que
+    acompanham minha formação.
+  </p>
+
+  <p>
+    Meu próximo objetivo é ganhar mais autonomia em C#,
+    terminar projetos próprios e publicar o que estou construindo.
+  </p>
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <b>Quer trocar uma ideia sobre programação ou jogos?</b>
+  <br><br>
+  <a href="mailto:salusromelo@gmail.com">
+    salusromelo@gmail.com ↗
+  </a>
+</p>
