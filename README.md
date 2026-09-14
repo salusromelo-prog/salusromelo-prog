@@ -1,10 +1,6 @@
-<p align="center">
-  <img
-    src="./assets/banner.png"
-    width="100%"
-    alt="Samuel Lustosa — Programação e Jogos Digitais. C#, Unity e desenvolvimento de software."
-  />
-</p>
+<img width="2172" height="724" alt="Banner png" src="https://github.com/user-attachments/assets/8e032ce1-9e2c-41c9-9011-5d743301695e" />
+
+
 
 <p align="center">
   <a href="https://github.com/salusromelo-prog?tab=repositories">
@@ -81,12 +77,12 @@ com autonomia para construir e entender meus próprios projetos.
 
 <p align="center">
   <img
-    width="380"
+    height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salusromelo-prog&theme=github_dark&title_color=E8ECF3&text_color=9FB0C8&bg_color=101826&border_color=26334D&icon_color=7AA2FF&chart_color=507BFF&hide_logo=true&animation=load&duration=2"
     alt="Estatísticas públicas do perfil"
   />
   <img
-    width="380"
+    height="180"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salusromelo-prog&exclude_repos=salusromelo-prog&theme=github_dark&title_color=E8ECF3&text_color=9FB0C8&bg_color=101826&border_color=26334D&icon_color=7AA2FF&chart_color=507BFF&animation=draw&duration=2"
     alt="Linguagens presentes nos meus repositórios"
   />
