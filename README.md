@@ -1,7 +1,5 @@
 <img width="2172" height="724" alt="Banner png" src="https://github.com/user-attachments/assets/8e032ce1-9e2c-41c9-9011-5d743301695e" />
 
-
-
 <p align="center">
   <a href="https://github.com/salusromelo-prog?tab=repositories">
     <b>EXPLORAR REPOSITÓRIOS ↗</b>
@@ -65,4 +63,69 @@ com autonomia para construir e entender meus próprios projetos.
 
 <br>
 
+<h2>Projetos</h2>
 
+<p>Do fundamento ao primeiro jogo — uma trilha real do que estou aprendendo.</p>
+
+<a href="https://github.com/salusromelo-prog/Estudos-C">
+  <img src="./assets/project-c.svg" width="100%" alt="Estudos-C — exercícios de lógica e fundamentos da linguagem C.">
+</a>
+
+<br><br>
+
+<a href="https://github.com/salusromelo-prog/Estudos-Csharp-Unity">
+  <img src="./assets/project-csharp-unity.svg" width="100%" alt="Estudos-Csharp-Unity — prática em C# aplicada ao desenvolvimento com Unity.">
+</a>
+
+<br><br>
+
+<a href="https://github.com/salusromelo-prog/Jogo_2D">
+  <img src="./assets/project-jogo2d.svg" width="100%" alt="Jogo_2D — projeto para praticar código e versionamento com Git.">
+</a>
+
+<br><br>
+
+<h2>Em construção</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Agora</h3>
+      <p>
+        Fortalecendo minha base em <b>C e C#</b> e aplicando
+        o que aprendo em exercícios e projetos com Unity.
+      </p>
+      <p><sub>BASE · PRÁTICA · CONSISTÊNCIA</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Próximo marco</h3>
+      <p>
+        Evoluir o <b>Jogo_2D</b>, organizar melhor os repositórios
+        e transformar os estudos em projetos concluídos.
+      </p>
+      <p><sub>PROJETOS · GIT · EVOLUÇÃO</sub></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<details>
+  <summary><b>Fora do código</b></summary>
+  <br>
+  <p>
+    Também sou atleta de tênis de mesa. Levo para a programação a mesma ideia
+    do treino: praticar, identificar o que precisa melhorar e tentar novamente
+    com mais precisão.
+  </p>
+</details>
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="Aprender, construir e publicar. O perfil cresce junto com os projetos.">
+
+<p align="center">
+  <b>Quer trocar uma ideia sobre programação ou jogos?</b>
+  <br><br>
+  <a href="mailto:salusromelo@gmail.com">salusromelo@gmail.com ↗</a>
+</p>
