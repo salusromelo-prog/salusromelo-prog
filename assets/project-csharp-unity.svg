@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="246" viewBox="0 0 1280 246" role="img" aria-labelledby="title desc">
+<title id="title">Estudos-Csharp-Unity: Prática em C# aplicada ao desenvolvimento com Unity.</title>
+<desc id="desc">Arte vetorial animada para o perfil de Samuel Lustosa.</desc>
+
+<style>
+  .sans { font-family: Inter, 'Segoe UI', Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+  .route { stroke-dasharray: 9 13; animation: route 8s linear infinite; }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .float { animation: float 2.8s ease-in-out infinite alternate; }
+  .window-a { animation: window 4.2s ease-in-out infinite; }
+  .window-b { animation: window 4.2s 1.4s ease-in-out infinite; }
+  @keyframes route { to { stroke-dashoffset: -220; } }
+  @keyframes pulse { 0%,100% { opacity:.38; transform:scale(.82); } 50% { opacity:1; transform:scale(1); } }
+  @keyframes blink { 0%,45% { opacity:1; } 46%,100% { opacity:.08; } }
+  @keyframes float { from { transform:translateY(0); } to { transform:translateY(-7px); } }
+  @keyframes window { 0%,72%,100% { opacity:.25; } 78%,94% { opacity:1; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#1A2638" stroke-width="1" opacity=".58"/>
+  </pattern>
+  <linearGradient id="edge" x1="0" x2="1">
+    <stop stop-color="#4F7BFF"/><stop offset="1" stop-color="#8B7CFF"/>
+  </linearGradient>
+</defs>
+<rect width="1280" height="246" rx="20" fill="#0B1018"/>
+<rect x="1" y="1" width="1278" height="244" rx="19" fill="none" stroke="#26334D" stroke-width="2"/>
+<rect x="24" y="24" width="62" height="62" rx="14" fill="#17253A"/><text x="55" y="64" text-anchor="middle" fill="#7AA2FF" font-size="20" font-weight="700" class="mono">02</text><text x="112" y="48" fill="#7AA2FF" font-size="13" letter-spacing="1.6" class="mono">GAME DEV / C# + UNITY</text><text x="112" y="94" fill="#F4F0E8" font-size="34" font-weight="750" class="sans">Estudos-Csharp-Unity</text><text x="112" y="129" fill="#91A2BC" font-size="18" class="sans">Prática em C# aplicada ao desenvolvimento com Unity.</text><rect x="112" y="160" width="42" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="124" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">C#</text><rect x="164" y="160" width="69" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="176" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">UNITY</text><rect x="243" y="160" width="87" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="255" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">ESTUDOS</text><text x="112" y="220" fill="#7AA2FF" font-size="13" letter-spacing="1.1" class="mono">ABRIR REPOSITÓRIO ↗</text><g transform="translate(738 38)"><rect width="510" height="170" rx="14" fill="#0A111B" stroke="#26334D"/><text x="20" y="32" fill="#91A2BC" font-size="12" class="mono">Scene / Player</text><g transform="translate(18 48)"><rect width="250" height="102" rx="8" fill="#0D1724"/><path d="M0 25H250M0 51H250M0 77H250M50 0V102M100 0V102M150 0V102M200 0V102" stroke="#1E2C41"/><rect x="105" y="39" width="40" height="40" rx="5" fill="#213758" stroke="#7AA2FF"/><path d="M125 24V92M91 59H159" stroke="#7AA2FF" stroke-width="2"/><circle cx="125" cy="59" r="5" fill="#F4F0E8" class="pulse"/></g><g transform="translate(292 48)" class="mono" font-size="12"><text x="0" y="15" fill="#DCE4F2">TRANSFORM</text><text x="0" y="43" fill="#91A2BC">X</text><rect x="22" y="28" width="118" height="22" rx="5" fill="#142238"/><text x="34" y="44" fill="#7AA2FF">0.00</text><text x="0" y="73" fill="#91A2BC">Y</text><rect x="22" y="58" width="118" height="22" rx="5" fill="#142238"/><text x="34" y="74" fill="#7AA2FF">1.00</text><text x="0" y="103" fill="#91A2BC">Z</text><rect x="22" y="88" width="118" height="22" rx="5" fill="#142238"/><text x="34" y="104" fill="#7AA2FF">0.00</text></g></g><path d="M705 32V214" stroke="#26334D"/><circle cx="705" cy="51" r="4" fill="#7AA2FF" class="pulse"/>
+</svg>
