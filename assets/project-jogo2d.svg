@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="246" viewBox="0 0 1280 246" role="img" aria-labelledby="title desc">
+<title id="title">Jogo_2D: Um jogo criado para praticar código e versionamento com Git.</title>
+<desc id="desc">Arte vetorial animada para o perfil de Samuel Lustosa.</desc>
+
+<style>
+  .sans { font-family: Inter, 'Segoe UI', Arial, sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace; }
+  .route { stroke-dasharray: 9 13; animation: route 8s linear infinite; }
+  .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.4s ease-in-out infinite; }
+  .blink { animation: blink 1.1s steps(1) infinite; }
+  .float { animation: float 2.8s ease-in-out infinite alternate; }
+  .window-a { animation: window 4.2s ease-in-out infinite; }
+  .window-b { animation: window 4.2s 1.4s ease-in-out infinite; }
+  @keyframes route { to { stroke-dashoffset: -220; } }
+  @keyframes pulse { 0%,100% { opacity:.38; transform:scale(.82); } 50% { opacity:1; transform:scale(1); } }
+  @keyframes blink { 0%,45% { opacity:1; } 46%,100% { opacity:.08; } }
+  @keyframes float { from { transform:translateY(0); } to { transform:translateY(-7px); } }
+  @keyframes window { 0%,72%,100% { opacity:.25; } 78%,94% { opacity:1; } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+
+
+<defs>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#1A2638" stroke-width="1" opacity=".58"/>
+  </pattern>
+  <linearGradient id="edge" x1="0" x2="1">
+    <stop stop-color="#4F7BFF"/><stop offset="1" stop-color="#8B7CFF"/>
+  </linearGradient>
+</defs>
+<rect width="1280" height="246" rx="20" fill="#0B1018"/>
+<rect x="1" y="1" width="1278" height="244" rx="19" fill="none" stroke="#26334D" stroke-width="2"/>
+<rect x="24" y="24" width="62" height="62" rx="14" fill="#17253A"/><text x="55" y="64" text-anchor="middle" fill="#7AA2FF" font-size="20" font-weight="700" class="mono">03</text><text x="112" y="48" fill="#7AA2FF" font-size="13" letter-spacing="1.6" class="mono">PROJETO PRÁTICO / C#</text><text x="112" y="94" fill="#F4F0E8" font-size="34" font-weight="750" class="sans">Jogo_2D</text><text x="112" y="129" fill="#91A2BC" font-size="18" class="sans">Um jogo criado para praticar código e versionamento com Git.</text><rect x="112" y="160" width="42" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="124" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">C#</text><rect x="164" y="160" width="87" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="176" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">JOGO 2D</text><rect x="261" y="160" width="51" height="30" rx="7" fill="#121C2B" stroke="#26334D"/><text x="273" y="180" fill="#DCE4F2" font-size="12" letter-spacing=".8" class="mono">GIT</text><text x="112" y="220" fill="#7AA2FF" font-size="13" letter-spacing="1.1" class="mono">ABRIR REPOSITÓRIO ↗</text><g transform="translate(738 38)"><rect width="510" height="170" rx="14" fill="#0A111B" stroke="#26334D"/><text x="20" y="30" fill="#91A2BC" font-size="12" class="mono">Jogo_2D / level_01</text><rect x="18" y="44" width="474" height="108" rx="8" fill="#0C1623"/><circle cx="428" cy="73" r="17" fill="#25436D"/><g fill="#1A2B43"><rect x="18" y="122" width="474" height="30"/><rect x="52" y="98" width="112" height="13" rx="2"/><rect x="210" y="81" width="104" height="13" rx="2"/><rect x="355" y="105" width="96" height="13" rx="2"/></g><g class="float"><rect x="91" y="75" width="16" height="23" rx="3" fill="#F4F0E8"/><rect x="95" y="68" width="8" height="8" rx="2" fill="#7AA2FF"/></g><rect x="260" y="57" width="10" height="10" rx="2" fill="#FFD36E" class="pulse"/><path d="M105 68C158 36 207 67 257 53" fill="none" stroke="#7AA2FF" stroke-width="2" class="route"/></g><path d="M705 32V214" stroke="#26334D"/><circle cx="705" cy="51" r="4" fill="#7AA2FF" class="pulse"/>
+</svg>
