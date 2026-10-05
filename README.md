@@ -1,131 +1,30 @@
-<img width="2172" height="724" alt="Banner png" src="https://github.com/user-attachments/assets/8e032ce1-9e2c-41c9-9011-5d743301695e" />
-
+<img src="./assets/header.svg" width="100%" alt="Samuel Lustosa — estudante de programação em Goiânia. C# e Unity no curso técnico de Jogos Digitais.">
 <p align="center">
-  <a href="https://github.com/salusromelo-prog?tab=repositories">
-    <b>EXPLORAR REPOSITÓRIOS ↗</b>
-  </a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:salusromelo@gmail.com">
-    <b>ENTRAR EM CONTATO ↗</b>
-  </a>
+  <a href="https://github.com/salusromelo-prog?tab=repositories"><b>Repositórios</b></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:salusromelo@gmail.com"><b>E-mail</b></a>
 </p>
-
-<br>
-
-### Sobre
-
-Sou o Samuel, estudante de **Jogos Digitais em Goiânia**.
-
-Meu interesse por programação começou nos videogames. Hoje,
-estou aprofundando minha base em **C#** e usando **Unity** nas
-atividades do curso. Quero seguir no desenvolvimento de software,
-com autonomia para construir e entender meus próprios projetos.
-
-<br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>C# · Fundamentos</h3>
-      <p>
-        Meu foco principal de estudo: lógica,
-        resolução de problemas e prática com código.
-      </p>
-      <p>
-        <sub>LINGUAGEM · RACIOCÍNIO · EXERCÍCIOS</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Unity · Jogos Digitais</h3>
-      <p>
-        Onde aplico o que aprendo em scripts,
-        mecânicas de jogo e projetos do curso técnico.
-      </p>
-      <p>
-        <sub>SCRIPTS · GAMEPLAY · PROJETOS</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### Ferramentas
-
+Sobre
+Sou o Samuel, estudante de Jogos Digitais em Goiânia.
+Meu interesse por programação começou nos videogames. Hoje estou aprofundando minha base em C# e usando Unity nas atividades do curso. Quero seguir no desenvolvimento de software, com autonomia para construir e entender meus próprios projetos.
+<img src="./assets/stack.svg" width="100%" alt="Ferramentas: C#, Unity, C, C++, Java, Git e VS Code">
+Projetos
+<a href="https://github.com/salusromelo-prog/Jogo_2D"><img src="./assets/project-jogo2d.svg" width="100%" alt="Jogo_2D — jogo de plataforma 2D feito em Unity, com pulo, espinhos, dano e animação."></a>
 <p>
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=cs,unity,git,github,vscode,visualstudio&theme=dark&perline=6"
-      alt="C#, Unity, Git, GitHub, VS Code e Visual Studio"
-    />
-  </a>
+  <a href="https://github.com/salusromelo-prog/Estudos-Programacao"><img src="./assets/project-estudos.svg" width="49%" alt="Estudos-Programacao — os mesmos exercícios em VisualG, C, C++ e Java."></a>
+  <a href="https://github.com/salusromelo-prog/Estudos-Csharp-Unity"><img src="./assets/project-csharp-unity.svg" width="49%" alt="Estudos-Csharp-Unity — listas de while e do while em C#, dentro do Unity."></a>
 </p>
-
-<br>
-
-<h2>Projetos</h2>
-
-<p>Do fundamento ao primeiro jogo — uma trilha real do que estou aprendendo.</p>
-
-<a href="https://github.com/salusromelo-prog/Estudos-C">
-  <img src="./assets/project-c.svg" width="100%" alt="Estudos-C — exercícios de lógica e fundamentos da linguagem C.">
-</a>
-
-<br><br>
-
-<a href="https://github.com/salusromelo-prog/Estudos-Csharp-Unity">
-  <img src="./assets/project-csharp-unity.svg" width="100%" alt="Estudos-Csharp-Unity — prática em C# aplicada ao desenvolvimento com Unity.">
-</a>
-
-<br><br>
-
-<a href="https://github.com/salusromelo-prog/Jogo_2D">
-  <img src="./assets/project-jogo2d.svg" width="100%" alt="Jogo_2D — projeto para praticar código e versionamento com Git.">
-</a>
-
-<br><br>
-
-<h2>Em construção</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Agora</h3>
-      <p>
-        Fortalecendo minha base em <b>C e C#</b> e aplicando
-        o que aprendo em exercícios e projetos com Unity.
-      </p>
-      <p><sub>BASE · PRÁTICA · CONSISTÊNCIA</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Próximo marco</h3>
-      <p>
-        Evoluir o <b>Jogo_2D</b>, organizar melhor os repositórios
-        e transformar os estudos em projetos concluídos.
-      </p>
-      <p><sub>PROJETOS · GIT · EVOLUÇÃO</sub></p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
+Agora
+Fortalecendo a base em C#, evoluindo o Jogo_2D e transformando os estudos em projetos concluídos.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
+  <img src="./assets/contributions.svg" width="100%" alt="Gráfico de contribuições animado, atualizado todo dia.">
+</picture>
 <details>
   <summary><b>Fora do código</b></summary>
   <br>
-  <p>
-    Também sou atleta de tênis de mesa. Levo para a programação a mesma ideia
-    do treino: praticar, identificar o que precisa melhorar e tentar novamente
-    com mais precisão.
-  </p>
+  Também sou atleta de tênis de mesa. Levo para a programação a mesma ideia do treino: praticar, identificar o que precisa melhorar e tentar de novo com mais precisão.
 </details>
-
 <br>
-
-<img src="./assets/footer.svg" width="100%" alt="Aprender, construir e publicar. O perfil cresce junto com os projetos.">
-
-<p align="center">
-  <b>Quer trocar uma ideia sobre programação ou jogos?</b>
-  <br><br>
-  <a href="mailto:salusromelo@gmail.com">salusromelo@gmail.com ↗</a>
-</p>
+<a href="mailto:salusromelo@gmail.com"><img src="./assets/footer.svg" width="100%" alt="Quer trocar uma ideia? Clique para mandar um e-mail para salusromelo@gmail.com."></a>
