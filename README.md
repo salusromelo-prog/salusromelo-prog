@@ -10,7 +10,7 @@ Aprendi lógica primeiro em Portugol, no VisualG. Depois resolvi os mesmos exerc
 No curso técnico conheci o C# e o Unity, e foi onde fiz meu primeiro jogo. Agora o próximo passo é sair dos exercícios e construir projetos completos.
 <br>
 <img src="./assets/titulo-ferramentas.svg" width="212" alt="Ferramentas">
-<img src="https://skillicons.dev/icons?i=cs,unity,c,cpp,java,git,github,vscode,visualstudio&theme=dark" alt="C#, Unity,Git, GitHub, VS Code e Visual Studio">
+<img src="https://skillicons.dev/icons?i=cs,unity,git,github,vscode,visualstudio&theme=dark" alt="C#, Unity,Git, GitHub, VS Code e Visual Studio">
 <br>
 <img src="./assets/titulo-projetos.svg" width="147" alt="Projetos">
 <table>
