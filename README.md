@@ -25,7 +25,7 @@ No curso técnico conheci o **C#** e o **Unity**, e foi onde fiz meu primeiro jo
 <table>
   <tr>
     <td><b>Linguagens</b></td>
-    <td><img src="https://skillicons.dev/icons?i=cs,c,cpp,py,java&theme=dark" height="40" alt="C#, C, C++, Python e Java"></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,java&theme=dark" height="40" alt="C#, C, C++, Python e Java"></td>
   </tr>
   <tr>
     <td><b>Game engine</b></td>
