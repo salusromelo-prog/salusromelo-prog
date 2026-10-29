@@ -22,7 +22,24 @@ No curso técnico conheci o **C#** e o **Unity**, e foi onde fiz meu primeiro jo
 
 <img src="./assets/titulo-ferramentas.svg" width="265" alt="Ferramentas">
 
-<img src="https://skillicons.dev/icons?i=cs,unity,java,git,github,vscode,visualstudio&theme=dark" alt="C#, Unity, Java, Git, GitHub, VS Code e Visual Studio">
+<table>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,c,cpp,py,java&theme=dark" height="40" alt="C#, C, C++, Python e Java"></td>
+  </tr>
+  <tr>
+    <td><b>Game engine</b></td>
+    <td><img src="https://skillicons.dev/icons?i=unity&theme=dark" height="40" alt="Unity"></td>
+  </tr>
+  <tr>
+    <td><b>Editores</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" height="40" alt="VS Code e Visual Studio"></td>
+  </tr>
+  <tr>
+    <td><b>Versionamento</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github&theme=dark" height="40" alt="Git e GitHub"></td>
+  </tr>
+</table>
 
 <br>
 
